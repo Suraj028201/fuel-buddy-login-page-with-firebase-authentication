@@ -1,7 +1,7 @@
 # fuel-buddy-login-page-with-firebase-authentication
 
 clone the repo and run yarn to install all dependencies.
-is you want to run stprybook, than rename the folder storybook, to .storybook and than run npm run storybook.
+If you want to run storybook, than rename the folder storybook, to .storybook and than run npm run storybook.
 
 only if you have already registered than only you can login and go to dashboard.
 once loggedin, you can go to login page only after you logout, if you try to go to login age without loggin out, you will be brought back to dashboard to logout.
